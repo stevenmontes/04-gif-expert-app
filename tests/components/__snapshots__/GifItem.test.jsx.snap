@@ -7,7 +7,7 @@ exports[`Tests of GifItem should match with the snapshot 1`] = `
   >
     <img
       alt="title"
-      src="url"
+      src="http://localhost/ejemplo.com"
     />
     <p>
       title
